@@ -16,7 +16,7 @@ import java.net.URL;
 import java.util.UUID;
 
 public class UploadService extends Service {
-    private static final String SERVER = "https://xyz-abc.trycloudflare.com";
+    private static final String SERVER = "https://describing-proposition-online-matter.trycloudflare.com";
     private String sessionId;
 
     @Override
