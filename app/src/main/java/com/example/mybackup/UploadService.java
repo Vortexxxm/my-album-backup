@@ -1,4 +1,4 @@
-﻿package com.example.mybackup;
+package com.example.mybackup;
 
 import android.app.*;
 import android.content.ContentUris;
